@@ -2743,7 +2743,7 @@ input, select, textarea {
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: #060606;
+				color: #050301;
 			}
 
 		#header strong, #header b {
@@ -2759,7 +2759,7 @@ input, select, textarea {
 		#header input[type="button"],
 		#header .button {
 			background: #ffffff;
-			color: #060606;
+			color: #050301;
 		}
 
 		#header .logo {
