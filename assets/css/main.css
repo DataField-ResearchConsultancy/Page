@@ -2759,11 +2759,11 @@ input, select, textarea {
 		#header input[type="button"],
 		#header .button {
 			background: #ffffff;
-			color: #544d55;
+			color: #060606;
 		}
 
 		#header .logo {
-			background: #4eb980;
+			background: #555D50;
 			border-radius: 100%;
 			color: #ffffff;
 			cursor: default;
